@@ -1,0 +1,73 @@
+2025-09-28 14:34:57,926 | WARNING | chatbot.management.commands.chat_cli | Corpus training skipped due to error: module 'collections' has no attribute 'Hashable'
+2025-09-28 14:35:06,364 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 14:35:06,364 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 14:35:06,379 | INFO | chatterbot.chatterbot | Similar text found: What are you? 0.69
+2025-09-28 14:35:06,381 | INFO | chatterbot.chatterbot | Using "What are you?" as a close match to "Hi, how are you?" with a confidence of 0.69
+2025-09-28 14:35:06,393 | INFO | chatterbot.chatterbot | Selecting response from 1 optimal responses.
+2025-09-28 14:35:06,393 | INFO | chatterbot.response_selection | Selecting first response from list of 1 options.
+2025-09-28 14:35:06,401 | INFO | chatterbot.chatterbot | Response selected. Using "I am a simple terminal chat bot built with Django and ChatterBot."
+2025-09-28 14:35:06,401 | INFO | chatterbot.chatterbot | BestMatch selected "I am a simple terminal chat bot built with Django and ChatterBot." as a response with a confidence of 0.69
+2025-09-28 14:35:06,407 | INFO | chatterbot.chatterbot | Adding "Hi, how are you?" as a response to "None"
+2025-09-28 14:35:06,423 | INFO | chatbot.management.commands.chat_cli | user=Hi, how are you? | bot=I am a simple terminal chat bot built with Django and ChatterBot. | ms=62
+2025-09-28 14:58:52,972 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 14:58:52,972 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 14:58:52,984 | INFO | chatterbot.chatterbot | Using "How is you day today?" as a close match to "How is you day today?" with a confidence of 0
+2025-09-28 14:58:52,992 | INFO | chatterbot.chatterbot | No responses found. Generating alternate response list.
+2025-09-28 14:58:53,002 | INFO | chatterbot.chatterbot | No known response to the input was found. Selecting a random response.
+2025-09-28 14:58:53,003 | INFO | chatterbot.chatterbot | BestMatch selected "I am not fully sure about that yet. Could you rephrase your question?" as a response with a confidence of 0
+2025-09-28 14:58:53,059 | INFO | chatterbot.chatterbot | Adding "How is you day today?" as a response to "Hi, how are you?"
+2025-09-28 14:58:53,087 | INFO | chatbot.management.commands.chat_cli | user=How is you day today? | bot=I am not fully sure about that yet. Could you rephrase your question? | ms=117
+2025-09-28 15:00:21,300 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 15:00:21,300 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 15:00:21,312 | INFO | chatterbot.chatterbot | Similar text found: What are you? 0.56
+2025-09-28 15:00:21,315 | INFO | chatterbot.chatterbot | Using "What are you?" as a close match to "what is 2+2?" with a confidence of 0.56
+2025-09-28 15:00:21,332 | INFO | chatterbot.chatterbot | Selecting response from 1 optimal responses.
+2025-09-28 15:00:21,332 | INFO | chatterbot.response_selection | Selecting first response from list of 1 options.
+2025-09-28 15:00:21,332 | INFO | chatterbot.chatterbot | Response selected. Using "I am a simple terminal chat bot built with Django and ChatterBot."
+2025-09-28 15:00:21,332 | INFO | chatterbot.chatterbot | BestMatch selected "I am a simple terminal chat bot built with Django and ChatterBot." as a response with a confidence of 0.56
+2025-09-28 15:00:21,342 | INFO | chatterbot.chatterbot | Adding "what is 2+2?" as a response to "How is you day today?"
+2025-09-28 15:00:21,363 | INFO | chatbot.management.commands.chat_cli | user=what is 2+2? | bot=I am a simple terminal chat bot built with Django and ChatterBot. | ms=72
+2025-09-28 16:41:45,890 | WARNING | chatbot.management.commands.chat_cli | Corpus training skipped due to error: module 'collections' has no attribute 'Hashable'
+2025-09-28 16:41:58,275 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 16:41:58,275 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 16:41:58,285 | INFO | chatterbot.chatterbot | Similar text found: Hello 1.0
+2025-09-28 16:41:58,289 | INFO | chatterbot.chatterbot | Using "Hello" as a close match to "Hello" with a confidence of 1.0
+2025-09-28 16:41:58,311 | INFO | chatterbot.chatterbot | Selecting response from 2 optimal responses.
+2025-09-28 16:41:58,311 | INFO | chatterbot.response_selection | Selecting first response from list of 2 options.
+2025-09-28 16:41:58,311 | INFO | chatterbot.chatterbot | Response selected. Using "Hello. How can I help you today?"
+2025-09-28 16:41:58,311 | INFO | chatterbot.chatterbot | BestMatch selected "Hello. How can I help you today?" as a response with a confidence of 1.0
+2025-09-28 16:41:58,357 | INFO | chatterbot.chatterbot | Adding "Hello" as a response to "what is 2+2?"
+2025-09-28 16:41:58,382 | INFO | chatbot.management.commands.chat_cli | user=Hello | bot=Hello. How can I help you today? | ms=116
+2025-09-28 16:42:14,093 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 16:42:14,093 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 16:42:14,105 | INFO | chatterbot.chatterbot | Using "quit" as a close match to "quit" with a confidence of 0
+2025-09-28 16:42:14,157 | INFO | chatterbot.chatterbot | No responses found. Generating alternate response list.
+2025-09-28 16:42:14,157 | INFO | chatterbot.chatterbot | No known response to the input was found. Selecting a random response.
+2025-09-28 16:42:14,163 | INFO | chatterbot.chatterbot | BestMatch selected "I am not fully sure about that yet. Could you rephrase your question?" as a response with a confidence of 0
+2025-09-28 16:42:14,174 | INFO | chatterbot.chatterbot | Adding "quit" as a response to "Hello"
+2025-09-28 16:42:14,199 | INFO | chatbot.management.commands.chat_cli | user=quit | bot=I am not fully sure about that yet. Could you rephrase your question? | ms=105
+2025-09-28 16:42:32,041 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 16:42:32,041 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 16:42:32,066 | INFO | chatterbot.chatterbot | Similar text found: quit 0.4
+2025-09-28 16:42:32,066 | INFO | chatterbot.chatterbot | Using "quit" as a close match to "q" with a confidence of 0.4
+2025-09-28 16:42:32,081 | INFO | chatterbot.chatterbot | No responses found. Generating alternate response list.
+2025-09-28 16:42:32,083 | INFO | chatterbot.chatterbot | No known response to the input was found. Selecting a random response.
+2025-09-28 16:42:32,087 | INFO | chatterbot.chatterbot | BestMatch selected "I am not fully sure about that yet. Could you rephrase your question?" as a response with a confidence of 0
+2025-09-28 16:42:32,089 | INFO | chatterbot.chatterbot | Adding "q" as a response to "quit"
+2025-09-28 16:42:32,122 | INFO | chatbot.management.commands.chat_cli | user=q | bot=I am not fully sure about that yet. Could you rephrase your question? | ms=72
+2025-09-28 16:43:28,697 | WARNING | chatbot.management.commands.chat_cli | Corpus training skipped due to error: module 'collections' has no attribute 'Hashable'
+2025-09-28 16:43:31,867 | INFO | chatterbot.chatterbot | Beginning search for close text match
+2025-09-28 16:43:31,867 | INFO | chatterbot.chatterbot | Processing search results
+2025-09-28 16:43:31,877 | INFO | chatterbot.chatterbot | Similar text found: Hello 1.0
+2025-09-28 16:43:31,880 | INFO | chatterbot.chatterbot | Using "Hello" as a close match to "Hello" with a confidence of 1.0
+2025-09-28 16:43:31,887 | INFO | chatterbot.chatterbot | 0. Excluding recent repeated response of "I am not fully sure about that yet. Could you rephrase your question?"
+2025-09-28 16:43:31,900 | INFO | chatterbot.chatterbot | Selecting response from 3 optimal responses.
+2025-09-28 16:43:31,900 | INFO | chatterbot.response_selection | Selecting first response from list of 3 options.
+2025-09-28 16:43:31,900 | INFO | chatterbot.chatterbot | Response selected. Using "Hello. How can I help you today?"
+2025-09-28 16:43:31,900 | INFO | chatterbot.chatterbot | BestMatch selected "Hello. How can I help you today?" as a response with a confidence of 1.0
+2025-09-28 16:43:31,906 | INFO | chatterbot.chatterbot | Adding "Hello" as a response to "q"
+2025-09-28 16:43:31,937 | INFO | chatbot.management.commands.chat_cli | user=Hello | bot=Hello. How can I help you today? | ms=78
+2025-09-28 16:49:06,051 | WARNING | root | Corpus training skipped due to: module 'collections' has no attribute 'Hashable'
+2025-09-28 16:49:10,024 | INFO | root | user=Hello | bot=Hello. How can I help you today? | ms=61
+2025-09-28 16:49:22,998 | INFO | root | user=What are you? | bot=I am a simple terminal chat bot built with Django and ChatterBot. | ms=99
+2025-09-28 16:49:29,179 | INFO | root | user=Bye | bot=Goodbye. Talk to you later. | ms=73
